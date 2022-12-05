@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './App.vue'
+import App from '../src/App.vue'
 
   /* import the fontawesome core */
   import { library } from '@fortawesome/fontawesome-svg-core'
@@ -16,8 +16,6 @@ import App from './App.vue'
   library.add(faUserSecret,faFaceSmile,faQuoteLeft,faMagnifyingGlass)
 
  
-
-// https://github.com/sylar9696/live-coding-cl-77/tree/main/37-vue-cli-axios
 
 
   /* add font awesome icon component */
